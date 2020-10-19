@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Not a mouthpiece but a model"
+tags: music, politics 
 ---
 
 > "All this could be feminism, or whatever Parton wants it to be—giving, giving back, walking in God’s light. When she’s fixing to change course, I trust she’ll let us know."
